@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.numberOfSections(in:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "twoDimensionalArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(_:cellForRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "twoDimensionalArray">
+            </PersistentString>
+            <PersistentString
+               value = "twoDimensionalArray[indexPath.section].names[0]">
+            </PersistentString>
+            <PersistentString
+               value = "twoDimensionalArray[indexPath.section].names[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.handleExpandClose(button:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " twoDimensionalArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
